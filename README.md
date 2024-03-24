@@ -33,9 +33,12 @@ We welcome contributions to this repository! If you have an Arduino project you'
 
 ## Connect with Us 🌐
 
-[<img align="left" alt="Deepesh  target='_blank' | Instagram" width="30px" src="images/instagram.gif"  />][instagram]
+[<img align="left"  target="_blank" alt="ROFIES | Instagram" width="30px" src="images/instagram.gif" />][Instagram]
+[<img align="left"  target="_blank" alt="ROFIES | Gmail" width="30px" src="images/gmail.gif" />][Gmail]
 
-[instagram]: https://www.instagram.com/rofies_iiitp/
+[Instagram]: https://www.instagram.com/rofies_iiitp/
+[Gmail]: mailto:rofies@iiitp.ac.in
+
 <br>
 <br>
 Happy Coding! 💻✨
