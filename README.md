@@ -33,7 +33,7 @@ We welcome contributions to this repository! If you have an Arduino project you'
 
 ## Connect with Us 🌐
 
-[<img align="left"  target="_blank" alt="ROFIES | Instagram" width="30px" src="images/instagram.gif" />][Instagram]
+[<img align="left" alt="ROFIES | Instagram" width="30px" src="images/instagram.gif" target="_blank"/>][Instagram]
 [<img align="left"  target="_blank" alt="ROFIES | Gmail" width="30px" src="images/gmail.gif" />][Gmail]
 
 [Instagram]: https://www.instagram.com/rofies_iiitp/
