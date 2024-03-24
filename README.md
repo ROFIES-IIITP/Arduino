@@ -36,5 +36,6 @@ We welcome contributions to this repository! If you have an Arduino project you'
 [<img align="left" alt="Deepesh  target='_blank' | Instagram" width="30px" src="images/instagram.gif"  />][instagram]
 
 [instagram]: https://www.instagram.com/rofies_iiitp/
-
+<br>
+<br>
 Happy Coding! 💻✨
