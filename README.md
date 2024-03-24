@@ -4,7 +4,7 @@ Welcome to the Arduino repository of IIIT Pune! Here you'll find various Arduino
 
 ## Projects 🛠️
 
-- [LCD Clock (Without I2C)](./LCD%20Clock%20(Without%20I2C)): <br>A simple LCD clock project without an I2C module.
+- [LCD Clock (Without I2C)](./LCD%20Clock%20(Without%20I2C)) <br>A simple LCD clock project without an I2C module.
 
 <!-- Add more projects here as they are added to the repository -->
 
