@@ -33,8 +33,6 @@ We welcome contributions to this repository! If you have an Arduino project you'
 
 ## Connect with Us 🌐
 
-## Connect with Us 🌐
-
 <a href="https://www.instagram.com/rofies_iiitp/" target="_blank"><img align="left" alt="ROFIES | Instagram" width="30px" src="images/instagram.gif" /></a>
 <a href="mailto:rofies@iiitp.ac.in" target="_blank"><img align="left" alt="ROFIES | Gmail" width="30px" src="images/gmail.gif" /></a>
 
