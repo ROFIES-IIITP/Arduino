@@ -14,8 +14,7 @@ Welcome to the Arduino repository of IIIT Pune! Here you'll find various Arduino
 ```
 git clone https://github.com/ROFIES-IIITP/Arduino.git
 ```
-   OR
-- You can copy the code if don't wish to clone the entire repository.
+- Or you can copy the code if don't wish to clone the entire repository.
   
 
 2. **Set Up the Hardware**: 
