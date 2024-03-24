@@ -33,11 +33,11 @@ We welcome contributions to this repository! If you have an Arduino project you'
 
 ## Connect with Us 🌐
 
-[<img align="left" alt="ROFIES | Instagram" width="30px" src="images/instagram.gif" target="_blank"/>][Instagram]
-[<img align="left"  target="_blank" alt="ROFIES | Gmail" width="30px" src="images/gmail.gif" />][Gmail]
+## Connect with Us 🌐
 
-[Instagram]: https://www.instagram.com/rofies_iiitp/
-[Gmail]: mailto:rofies@iiitp.ac.in
+<a href="https://www.instagram.com/rofies_iiitp/" target="_blank"><img align="left" alt="ROFIES | Instagram" width="30px" src="images/instagram.gif" /></a>
+<a href="mailto:rofies@iiitp.ac.in" target="_blank"><img align="left" alt="ROFIES | Gmail" width="30px" src="images/gmail.gif" /></a>
+
 
 <br>
 <br>
