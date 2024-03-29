@@ -14,7 +14,7 @@ Welcome to the Arduino repository of IIIT Pune! Here you'll find various Arduino
 ```
 git clone https://github.com/ROFIES-IIITP/Arduino.git
 ```
-- Or you can copy the code if don't wish to clone the entire repository.
+- Or you can copy the code if you don't wish to clone the entire repository.
   
 
 2. **Set Up the Hardware**: 
@@ -25,11 +25,12 @@ git clone https://github.com/ROFIES-IIITP/Arduino.git
 - Upload the provided Arduino sketch to your Arduino board using the Arduino IDE or any other compatible software.
 
 4. **Run the Project**: 
-- After uploading the code, follow the instructions provided in the project's README file to run the project.
+- After uploading the code, follow the instructions in the project's README file to run the project.
 
 ## Contribution Guidelines 🤝
 
-We welcome contributions to this repository! If you have an Arduino project you'd like to add, feel free to submit a pull request. Please ensure that your project follows our contribution guidelines.
+We welcome contributions to this repository! 
+Do you have an Arduino project you'd like to add?, feel free to submit a pull request. Please ensure that your project follows our contribution guidelines.
 
 ## Connect with Us 🌐
 
