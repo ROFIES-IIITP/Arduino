@@ -4,7 +4,7 @@
 This Arduino project implements a simple clock using an LCD without an I2C module. It continuously displays the time in hours, minutes, and seconds on the LCD screen. Additionally, it allows users to adjust the hours and minutes using push buttons.
 
 ## Author 👨‍💻
-- **Author**: Deepsh Patil
+- **Author**: Deepesh Patil
 
 ## Components Required 🛠️
 - Arduino board (e.g., Arduino Uno)
