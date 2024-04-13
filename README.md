@@ -33,7 +33,7 @@ git clone https://github.com/ROFIES-IIITP/Arduino.git
 ## Contribution Guidelines 🤝
 
 We welcome contributions to this repository! 
-Do you have an Arduino project you'd like to add?, feel free to submit a pull request. Please ensure that your project follows our contribution guidelines.
+Would you happen to have an Arduino project you'd like to add? Feel free to submit a pull request. Please ensure that your project follows our [contribution guidelines](https://github.com/ROFIES-IIITP/.github/blob/main/CONTRIBUTION.md).
 
 ## Connect with Us 🌐
 
