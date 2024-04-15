@@ -37,8 +37,8 @@ Would you happen to have an Arduino project you'd like to add? Feel free to subm
 
 ## Connect with Us 🌐
 
-<a href="https://www.instagram.com/rofies_iiitp/" target="_blank"><img align="left" alt="ROFIES | Instagram" width="30px" src="images/instagram.gif" /></a>
-<a href="mailto:rofies@iiitp.ac.in" target="_blank"><img align="left" alt="ROFIES | Gmail" width="30px" src="images/gmail.gif" /></a>
+<a href="https://www.instagram.com/rofies_iiitp/" target="_blank"><img align="left" alt="ROFIES | Instagram" width="30px" src="assets/instagram.gif" /></a>
+<a href="mailto:rofies@iiitp.ac.in" target="_blank"><img align="left" alt="ROFIES | Gmail" width="30px" src="assets/gmail.gif" /></a>
 
 
 <br>
