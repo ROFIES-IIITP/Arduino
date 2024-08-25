@@ -35,6 +35,13 @@ git clone https://github.com/ROFIES-IIITP/Arduino.git
 We welcome contributions to this repository! 
 Would you happen to have an Arduino project you'd like to add? Feel free to submit a pull request. Please ensure that your project follows our [contribution guidelines](https://github.com/ROFIES-IIITP/.github/blob/main/CONTRIBUTION.md).
 
+## Contributors 🫂
+
+<a href="https://github.com/ROFIES-IIITP/Arduino/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Arduino" />
+</a>
+
+
 ## Connect with Us 🌐
 
 <a href="https://www.instagram.com/rofies_iiitp/" target="_blank"><img align="left" alt="ROFIES | Instagram" width="30px" src="assets/instagram.gif" /></a>
