@@ -38,7 +38,7 @@ Would you happen to have an Arduino project you'd like to add? Feel free to subm
 ## Contributors 🫂
 
 <a href="https://github.com/ROFIES-IIITP/Arduino/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Arduino" />
+  <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Arduino"/>
 </a>
 
 
