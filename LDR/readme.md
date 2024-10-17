@@ -3,7 +3,9 @@
 ## Overview
 This project reads the input from an analog sensor connected to the Arduino, processes the sensor data, and controls an LED based on the sensor reading. If the sensor input is above a certain threshold (600 in this case), the LED will blink on and off every second. If the input is below the threshold, the LED will remain off.
 
-## Contributor 
+## Contributor
+-[Harshit Dudhani](https://github.com/harshitdudhani)
+
 
 ## Components Used
 1. **Arduino Board (e.g., Uno, Nano, Mega)**
