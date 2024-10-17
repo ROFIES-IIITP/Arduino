@@ -99,6 +99,6 @@ This project is open-source and can be modified and distributed freely.
 
 ## Author
 
-[Your Name]  
-[Your Email or Contact Information]
+[Harshit](https://github.com/harshitdudhani)  
+Email - harshitdudhani2004@gmail.com
 
