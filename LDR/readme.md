@@ -21,8 +21,6 @@ This project reads the input from an analog sensor connected to the Arduino, pro
 <img src="https://github.com/harshitdudhani/Arduino/blob/main/assets/Screenshot%202024-09-25%20183012.png" width="400">
 
 
-
-
 ## Code Explanation
 The code reads the sensor data using `analogRead()`, which converts the analog signal to a digital value between 0 and 1023. If the value exceeds 600, the LED blinks with a 1-second delay. If the value is less than 600, the LED remains off.
 
@@ -50,8 +48,6 @@ void loop() {
     digitalWrite(9, LOW);  // Keep the LED OFF
   }
 }
-
-
 ```
 
 ## Usage Instructions
