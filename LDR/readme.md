@@ -3,6 +3,10 @@
 ## Overview
 This project reads the input from an analog sensor connected to the Arduino, processes the sensor data, and controls an LED based on the sensor reading. If the sensor input is above a certain threshold (600 in this case), the LED will blink on and off every second. If the input is below the threshold, the LED will remain off.
 
+## Contributor
+- [Harshit Dudhani](https://github.com/harshitdudhani)
+
+
 ## Components Used
 1. **Arduino Board (e.g., Uno, Nano, Mega)**
 2. **Analog Sensor** connected to analog pin A0 (e.g., potentiometer, temperature sensor, light sensor, etc.)
@@ -13,6 +17,9 @@ This project reads the input from an analog sensor connected to the Arduino, pro
 - Connect the analog sensor to analog pin `A0`.
 - Connect the LED to digital pin `9` through a 220-ohm resistor.
 - Ensure to have a common ground connection for all components.
+<br>
+ ![connection](LDR.png)
+
 
 ## Code Explanation
 The code reads the sensor data using `analogRead()`, which converts the analog signal to a digital value between 0 and 1023. If the value exceeds 600, the LED blinks with a 1-second delay. If the value is less than 600, the LED remains off.
@@ -20,7 +27,7 @@ The code reads the sensor data using `analogRead()`, which converts the analog s
 ## Code
 ```cpp
 int sensorinput = A0;
-int data = 0;
+int data  = 0;
 
 void setup() {
   Serial.begin(9600);
