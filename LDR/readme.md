@@ -18,7 +18,7 @@ This project reads the input from an analog sensor connected to the Arduino, pro
 - Connect the LED to digital pin `9` through a 220-ohm resistor.
 - Ensure to have a common ground connection for all components.
 <br>
-<img src="https://github.com/harshitdudhani/Arduino/blob/main/assets/Screenshot%202024-09-25%20183012.png" width="400">
+ ![connection](LDR.png)
 
 
 ## Code Explanation

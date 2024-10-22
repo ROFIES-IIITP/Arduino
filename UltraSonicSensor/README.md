@@ -9,14 +9,16 @@ This project demonstrates how to measure distance using an ultrasonic sensor (HC
 - Jumper wires
 - Breadboard (optional)
 
-## Pin Connections
 
+
+## Pin Connections
+![connections](connection.png)
 - Connect the **Trig** pin of the HC-SR04 to pin **8** on the Arduino.
 - Connect the **Echo** pin of the HC-SR04 to pin **7** on the Arduino.
 - Connect **VCC** (power) of the HC-SR04 to **5V** on the Arduino.
 - Connect **GND** (ground) of the HC-SR04 to **GND** on the Arduino.
 
-## Code 
+## Code
 ```C
 int trig=8,echo=7;
 
@@ -99,6 +101,7 @@ This project is open-source and can be modified and distributed freely.
 
 ## Author
 
-[Your Name]  
-[Your Email or Contact Information]
+-[Harshit Dudhani](https://github.com/harshitdudhani)
+
+Email - harshitdudhani2004@gmail.com
 
