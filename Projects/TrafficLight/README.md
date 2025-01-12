@@ -1,55 +1,46 @@
-# 🚀 Arduino PIR Motion Detector with LED
+# 🚦 Arduino Traffic Light Signaling System
 
-This project demonstrates how to use a PIR (Passive Infrared) motion sensor with an Arduino to light up an LED when motion is detected. 🎉
-
+This project demonstrates how to use Arduino to create a prototype traffic signal .
 ## 🛠️ Components Needed
 
-- 🛡️ Arduino (e.g., Uno, Nano, etc.)
-- 🔴 PIR Motion Sensor (HC-SR501 or similar)
-- 💡 LED (any color)
-- ⚡ Resistor (220 ohms for the LED)
+- 🛡️ Arduino ( Uno)
+- 🔴 Push Button
+- 💡 LED (Red|Yellow|Green color)
+- ⚡ Resistor (220|1000 ohms for the LED)
 - 🪢 Jumper wires
 - ⚙️ Breadboard (optional)
 
-## 🖇️ Circuit Diagram
+## 🔌 Circuit Diagram
 
-1. **PIR Sensor Connections:**
+1. **Push Button Connections:**
    - `VCC` -> Arduino `5V`
-   - `GND` -> Arduino `GND`
-   - `OUT` -> Arduino digital pin (e.g., pin 2)
+   - `GND` -> Arduino `GND` via 1000 Ohm resistance
+   - `OUT` -> Arduino digital pin (pin 2)
 
 2. **LED Connections:**
-   - Positive leg (longer) -> Arduino digital pin (e.g., pin 13) via a 220-ohm resistor
+   - Positive leg (longer) -> Arduino digital pin (pin 13|pin12|pin8) via a 220-ohm resistor
    - Negative leg (shorter) -> Arduino `GND`
 
 ## 📜 Code
 
-You can get the code from [here](./code.ino)
+You can get the code from [here](./Arduino/Projects/TrafficLight/sketch_jan12a.ino)
 
 ## 🚦 How It Works
 
-1. The **PIR sensor** detects motion by sensing infrared radiation changes (e.g., when a person moves).
-2. When motion is detected, the sensor sends a `HIGH` signal to the Arduino.
-3. The Arduino turns on the **LED** when it receives the `HIGH` signal and turns it off when there is no motion.
+1. The **Push Button** provides input .
+2. When pressed , it sends a `HIGH` signal to the Arduino.
+3. The Arduino turns on the **Red|Yellow|Green LED** simultaneously when it receives the `HIGH` signal .
 
-## 🛡️ Notes
+## ❗️ Notes
 
-- Adjust the sensitivity and delay of the PIR sensor using the onboard potentiometers.
+- Adjust the delay of LED.
 - Ensure proper connections to avoid any short circuits.
-
-## 🌟 Demo
-
-When the PIR sensor detects motion:
-- The LED lights up. 💡
-
-When no motion is detected:
-- The LED remains off. 🌙
 
 ## 📸 Example Setup
 Here is the schematics of the circuit
-![schematic](./Terrific%20Hango.png)
+![schematic](./Arduino/Projects/TrafficLight/traffic light aurdino.png)
 
 
 ---
 
-Enjoy building your motion-detection project! 🥳 Feel free to share any feedback or improvements. 🚀
+Enjoy building your Arduino Traffic Light Signaling System ! 🥳 Feel free to share any feedback or improvements. 🚀
