@@ -23,7 +23,7 @@ This project demonstrates how to use Arduino to create a prototype traffic signa
 
 ## 📜 Code
 
-You can get the code from [here](./Arduino/Projects/TrafficLight/sketch_jan12a.ino)
+You can get the code from [here](./sketch_jan12a.ino)
 
 ## 🚦 How It Works
 
