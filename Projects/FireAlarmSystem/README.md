@@ -5,7 +5,7 @@ This project demonstrates how to use Temperature Sensor and a Gas Sensor to buil
 ## 🛠️ Components Needed
 
 - 🛡️ Arduino (UNO R3)
-- 🔴 TEmperature Sensor (TMP36-LM35)
+- 🔴 Temperature Sensor (TMP36-LM35)
 - 💡 LED (any color)
 - ⚡ Resistor - 2(for LED and Gas Sensor)
 - 🪢 Jumper wires
@@ -83,7 +83,7 @@ void loop()
 }  
 ```
 ## Circuit Diagram : 
-![Circuit Diagram](\CircuitDiagram.png)
+![Circuit Diagram](./CircuitDiagram.png)
 
 ## 🚦 How It Works
 
