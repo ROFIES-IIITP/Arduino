@@ -11,6 +11,11 @@ INTERFACING KEYPAD USING ARDUINO UNO R3
    				of 4x4 Keypad respectively.
 
 
+
+       ![circuit](https://github.com/user-attachments/assets/54d7568e-68d9-4f40-bbed-ce8a4232810b)
+
+
+
  	3. CODE 
   			#include<Keypad.h>
 
