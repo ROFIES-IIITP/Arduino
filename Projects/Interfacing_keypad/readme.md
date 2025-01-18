@@ -43,5 +43,5 @@ INTERFACING KEYPAD USING ARDUINO UNO R3
    4.Code Explanation
 		First we declare ROWS and COLS for mapping keys into Arduino. Then we declare an object numpad1 of class Keypad. Further we declare a variable ip(input) to 		store the value of key pressed which is read into object numpad1. Then we print the value of ip.
 
-  5. NOTE
+ 5. NOTE
 		Include header file <Keypad.h>
