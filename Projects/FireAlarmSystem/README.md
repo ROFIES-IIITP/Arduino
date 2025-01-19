@@ -109,4 +109,4 @@ The same happens with the LED in accordance with temperature levels that can be 
 
 ---
 
-Enjoy building your motion-detection project! 🥳 Feel free to share any feedback or improvements. 🚀
+Enjoy building your Fire Alarm System ! 🥳 Feel free to share any feedback or improvements. 🚀
