@@ -83,7 +83,7 @@ void loop()
 }  
 ```
 ## Circuit Diagram : 
-![Circuit Diagram](.\CircuitDiagram.png)
+![Circuit Diagram](./CircuitDiagram.png)
 
 ## 🚦 How It Works
 
