@@ -7,7 +7,7 @@ This project demonstrates interfacing a 4x4 numeric keypad with arduino for taki
 ## Components Used
 - **Arduino Board (Uno)**
   <br>
--**4x4 Keypad**
+- **4x4 Keypad**
 ## Circuit Diagram
  i.Connect the digital pins (12,11,10,9) of Arduino to pins (Row 1, Row 2, Row 3, Row 4) 
 	of Keypad respectively. <br>
@@ -17,7 +17,7 @@ This project demonstrates interfacing a 4x4 numeric keypad with arduino for taki
 
 
 ## Code Explanation
-	First we declare ROWS and COLS for mapping keys into Arduino. The `keys` array defines the mapping of keys to characters. We customize this array according to our keypad. Then we declare an object numpad1 of class `Keypad`. Next, we declare a variable ip(input) to store the value of key pressed which is read into object numpad1.
+First we declare ROWS and COLS for mapping keys into Arduino. The `keys` array defines the mapping of keys to characters. We customize this array according to our keypad. Then we declare an object numpad1 of class `Keypad`. Next, we declare a variable ip(input) to store the value of key pressed which is read into object numpad1.
 
 ## Code
 ```cpp
