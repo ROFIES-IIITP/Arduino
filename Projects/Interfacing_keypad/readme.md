@@ -1,10 +1,10 @@
-INTERFACING KEYPAD USING ARDUINO UNO R3
+# INTERFACING KEYPAD USING ARDUINO UNO R3
 
-	1.Components needed
+	## Components needed
 		 a. Arduino UNO R3
 		 b. Keypad (4x4)
 		 c. Jumper wires
-	2.Building Circuit
+	## Building Circuit
 		 i. Connect the digital pins (12,11,10,9) of Arduino to pins (Row 1, Row 2, Row 3, Row 4) 
    				of 4x4 Keypad respectively.
 	   	 ii. Connect the digital pins (8,7,6,5) of Arduino to pins (Column 1, Column 2, Column 3, Column 4) 
@@ -12,11 +12,7 @@ INTERFACING KEYPAD USING ARDUINO UNO R3
 
 
 
-       ![circuit](https://github.com/user-attachments/assets/54d7568e-68d9-4f40-bbed-ce8a4232810b)
-
-
-
- 	3. CODE 
+ 	## CODE 
   			#include<Keypad.h>
 
 				const byte ROWS =4;
@@ -45,8 +41,8 @@ INTERFACING KEYPAD USING ARDUINO UNO R3
   						  }
 			}
 
-   4.Code Explanation
+   ## Code Explanation
 		First we declare ROWS and COLS for mapping keys into Arduino. Then we declare an object numpad1 of class Keypad. Further we declare a variable ip(input) to 		store the value of key pressed which is read into object numpad1. Then we print the value of ip.
 
- 5. NOTE
+ ## NOTE
 		Include header file <Keypad.h>
