@@ -6,10 +6,11 @@ This project demonstrates interfacing a 4x4 numeric keypad with arduino for taki
 
 ## Components Used
 - **Arduino Board (Uno)**
+  <br>
 -**4x4 Keypad**
 ## Circuit Diagram
  i.Connect the digital pins (12,11,10,9) of Arduino to pins (Row 1, Row 2, Row 3, Row 4) 
-	of Keypad respectively.
+	of Keypad respectively. <br>
  ii. Connect the digital pins (8,7,6,5) of Arduino to pins (Column 1, Column 2, Column 3, Column 4) 
 	 of 4x4 Keypad respectively.
 <br>
@@ -55,4 +56,4 @@ This project demonstrates interfacing a 4x4 numeric keypad with arduino for taki
 3. Open the serial monitor to view the input read.
 
 ## Note
-	Do not forget to include library `#include<keypad.h>`. You might need to download the header file manually in the Arduino IDE. In this project we included the `Keypad` library by **Mark Stanley** and **Alexander Brevig**.
+Do not forget to include library `#include<keypad.h>`. You might need to download the header file manually in the Arduino IDE. In this project we included the `Keypad` library by **Mark Stanley** and **Alexander Brevig**.
