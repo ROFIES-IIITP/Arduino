@@ -1,17 +1,17 @@
-# 🚀 Dice with 7 segment display
+#  Dice with 7 segment display
 
-This project demonstrates how to use Temperature Sensor and a Gas Sensor to build a fire alarm System 
+This project can be called as Electronic dice.This will give a random dice number.
 
-## 🛠️ Components Needed
+##  Components Needed
 
-- 🛡️ Arduino (UNO R3)
-- 🔴 7 Segment Display
-- ⚡ Resistor - 1
-- 🪢 Jumper wires
-- ⚙️ Breadboard
-- 🔘PushButton
+-  Arduino (UNO R3)
+-  7 Segment Display
+-  Resistor - 1
+-  Jumper wires
+-  Breadboard
+-  PushButton
 
-## 🖇️ Circuit Diagram
+##  Circuit Diagram
 
 
 1. **Dice with 7-segment display:**   
@@ -30,7 +30,7 @@ This project demonstrates how to use Temperature Sensor and a Gas Sensor to buil
 
 
 
-## 📜 Code 
+##  Code 
 ```Cpp
 //dice ka program
 #define ap 2
