@@ -22,7 +22,7 @@ This Arduino project implements a simple clock using an LCD without an I2C modul
    - Connect the LCD to the Arduino board according to the pin definitions provided in the code (`rs`, `en`, `d4`, `d5`, `d6`, `d7`).
    - Connect two push buttons to the Arduino board for setting hours and minutes. The pins for the buttons are defined as `hs` (hour set) and `ms` (minute set) in the code.<br>
    
-   <br><img src="https://github.com/ROFIES-IIITP/Arduino/blob/main/LCD%20Clock%20(Without%20I2C)/assets/Circuit%20Diagram.png" width="400">
+   <br><img src="./assets/Circuit%20Diagram.png" width="400">
 
 3. **Upload the Code**:
    - Upload the provided Arduino sketch (`clock_lcd_without_i2c.ino`) to your Arduino board using the Arduino IDE or any other compatible software.
